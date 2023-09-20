@@ -1,0 +1,8 @@
+Pillow
+
+streamlit
+
+torch
+torchvision
+transformers
+cloudpickle
