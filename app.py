@@ -17,7 +17,6 @@ st.markdown(
 <style>
 .header {
 left: 0;
-position: fixed;
 width: 100%;
 background-color: lightgray;
 padding: 10px;
@@ -56,7 +55,7 @@ st.sidebar.text("※デフォルトでは藤井の自作モデルが適用され
 st.sidebar.markdown("### 2.画像をアップロードする")
 st.sidebar.text("※自身のモデルに合わせた画像を選んでください")
 st.sidebar.text("※藤井の自作モデルの場合以下の判定が可能です")
-st.sidebar.text("・バナナ")
+st.sidebar.text("・みかん")
 st.sidebar.text("・りんご")
 st.sidebar.text("・ぶどう")
 
